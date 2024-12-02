@@ -1,0 +1,19 @@
+.container {
+  column-count: 4; 
+  column-gap: 10px; 
+  background-color: rgb(190, 202, 202);
+}
+
+.item {
+  display: inline-block;
+  margin-bottom: 10px; 
+  width: 100%; 
+  break-inside: avoid;
+}
+
+img {
+  border-radius: 5px;
+  width: 100%; 
+  height: auto;
+  object-fit: cover;
+}
