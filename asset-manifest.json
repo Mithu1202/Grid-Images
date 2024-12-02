@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Grid-Images/static/css/main.350ecbd4.css",
+    "main.js": "/Grid-Images/static/js/main.56d4a6e4.js",
+    "static/js/453.e324d4e0.chunk.js": "/Grid-Images/static/js/453.e324d4e0.chunk.js",
+    "static/media/logo.svg": "/Grid-Images/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Grid-Images/index.html",
+    "main.350ecbd4.css.map": "/Grid-Images/static/css/main.350ecbd4.css.map",
+    "main.56d4a6e4.js.map": "/Grid-Images/static/js/main.56d4a6e4.js.map",
+    "453.e324d4e0.chunk.js.map": "/Grid-Images/static/js/453.e324d4e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.350ecbd4.css",
+    "static/js/main.56d4a6e4.js"
+  ]
+}
